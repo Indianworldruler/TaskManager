@@ -1,3 +1,3 @@
-function deleteTask(taskId) {
-    tasks = tasks.filter(t => t.id !== taskId);
+function taskSummary() {
+    console.log('Summary of tasks');
 }
